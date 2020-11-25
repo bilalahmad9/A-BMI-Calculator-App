@@ -172,7 +172,7 @@ class _InputPageState extends State<InputPage> {
                         )
                       ],
                     ),
-                    colors: Color(0xFF1D1E33),
+                    colors: Colors.blue,
                   ),
                 ),
                 Expanded(
@@ -206,7 +206,7 @@ class _InputPageState extends State<InputPage> {
                           )
                         ],
                       ),
-                      colors: Color(0xFF1D1E33)),
+                      colors: Colors.blue),
                 ),
               ],
             ),
@@ -230,7 +230,7 @@ class _InputPageState extends State<InputPage> {
               child: Center(
                 child: Text('Calculate', style: ConstentTextLabe3),
               ),
-              color: Colors.black,
+              color: Colors.blue,
               height: 60,
               width: double.infinity,
               margin: EdgeInsets.only(top: 10),
