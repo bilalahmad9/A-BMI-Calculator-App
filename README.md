@@ -3,11 +3,22 @@
 A new Flutter application.
 
 
+# Main UI 
 
 A new Updated BMI calculator with fully changed UI.
 
 
 ![Screenshot_20201125-115605](https://user-images.githubusercontent.com/74393555/100198530-c58f6c00-2f1d-11eb-9112-cf5806226e98.png)
+
+
+# Result UI 
+
+After click on the Calculate you can see this image with your BMI.
+
+
+![Screenshot_20201125-115615](https://user-images.githubusercontent.com/74393555/100199506-1a7fb200-2f1f-11eb-87c5-e184034e4e6b.png)
+
+
 
 
 This is the Screenshot of my previous BMI Calculator Application.
