@@ -56,7 +56,7 @@ class Resultfind extends StatelessWidget {
                   child: Center(
                     child: Text('Again Calculate', style: ConstentTextLabe3),
                   ),
-                  color: Colors.blue,
+                  color: Colors.black,
                   height: 40,
                   width: double.infinity,
                   margin: EdgeInsets.only(top: 30),
