@@ -106,7 +106,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
                   controller: WeightController,
                   textAlign: TextAlign.center,
                   decoration: InputDecoration(
-                    hintText: " Your Weight in Cm :",
+                    hintText: " Your Weight in KG :",
                     filled: true,
                     fillColor: Colors.grey[200],
                     border: OutlineInputBorder(
