@@ -15,10 +15,7 @@ A new Updated BMI calculator with fully changed UI.
 
 After click on the Calculate you can see this image with your BMI.
 
-
-![Screenshot_20201125-115615](https://user-images.githubusercontent.com/74393555/100199506-1a7fb200-2f1f-11eb-87c5-e184034e4e6b.png)
-
-
+![Screenshot_20201125-115700](https://user-images.githubusercontent.com/74393555/100200054-e8228480-2f1f-11eb-9684-1907ce2769ae.png)
 
 # Back To Main UI
 
