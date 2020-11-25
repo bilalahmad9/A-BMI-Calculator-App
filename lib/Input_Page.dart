@@ -135,7 +135,19 @@ class _InputPageState extends State<InputPage> {
                           'WEGHT',
                           style: ConstentTextLabel,
                         ),
-                        Text('$slider_weight', style: ConstentTextLabe2),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              '$slider_weight',
+                              style: ConstentTextLabe2,
+                            ),
+                            Text(
+                              'kg',
+                              style: ConstentTextLabel,
+                            ),
+                          ],
+                        ),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
