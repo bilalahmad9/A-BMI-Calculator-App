@@ -3,6 +3,12 @@
 A new Flutter application.
 
 
+# Icon of BMI Calculator
+
+![Icon of BMI Calculator](https://user-images.githubusercontent.com/74393555/100209279-7ea87300-2f2b-11eb-8545-34411466511f.png)
+
+
+
 # Main UI 
 
 A new Updated BMI calculator with fully changed UI.
