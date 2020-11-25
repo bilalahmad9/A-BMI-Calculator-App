@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# Complete App Intro 
+
+![ezgif-2-459033c0bd0b](https://user-images.githubusercontent.com/74393555/100211051-794c2800-2f2d-11eb-9e3e-709c88949fdd.gif)
+
 
 # Icon of BMI Calculator
 
