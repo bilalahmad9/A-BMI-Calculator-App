@@ -7,6 +7,9 @@ A new Flutter application.
 
 ![Icon of BMI Calculator](https://user-images.githubusercontent.com/74393555/100209279-7ea87300-2f2b-11eb-8545-34411466511f.png)
 
+# Splash Screen
+
+![Screenshot_20201125-143808](https://user-images.githubusercontent.com/74393555/100209682-ff676f00-2f2b-11eb-8f45-2fdcfc1ff9c9.png)
 
 
 # Main UI 
