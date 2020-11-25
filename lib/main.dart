@@ -137,7 +137,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
                   ),
                 ),
                 SizedBox(
-                  height: 20.0,
+                  height: 50.0,
                 ),
                 Container(
                   width: double.infinity,
